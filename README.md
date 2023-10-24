@@ -18,6 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursats&show_icons=true&locale=en&layout=compact" alt="kursats" /></p>
 
-
-
-![snake gif](https://github.com/kursats/kursats/blob/output/github-contribution-grid-snake.gif)
