@@ -3,7 +3,7 @@
 <h1 align="center">Merhaba, Ben Kürşat Sinan</h1>
 <h3 align="center">Teknolojiye tutkulu bir genç</h3>
 
-- 🌱 Şu anda öğrenmeye çalıştığım **Python**
+- 🌱 Şu anda öğrenmeye çalıştığım **C#**
 
 - 📫 Bana nasıl ulaşabilirsiniz **kursat0sinan@gmail.com**
 
