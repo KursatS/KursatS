@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEuIvMlNAPjFA/profile-displaybackgroundimage-shrink_350_1400/0/1697455927219?e=1703721600&v=beta&t=p1WVd820SpLTE9GfvcImOeEMBVUj-2qXoFeVNdI6fDg)
-
 <h1 align="center">Merhaba, Ben Kürşat Sinan</h1>
 <h3 align="center">Teknolojiye tutkulu bir genç</h3>
 
