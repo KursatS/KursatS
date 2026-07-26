@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Kürşat Sinan</h1>
 <h3 align="center">Teknolojiye tutkulu bir genç</h3>
 
-- 🌱 Şu anda öğrenmeye çalıştığım **Yapayzeka ile Yazılım Geliştirme/**
+- 🌱 Şu anda öğrenmeye çalıştığım **Yapayzeka ile Yazılım Geliştirme**
 
 - 📫 Bana nasıl ulaşabilirsiniz **kursat0sinan@gmail.com**
 
